@@ -1,0 +1,38 @@
+#res{
+    background-color: #c5def1;
+    color : #252c8e;
+    border-color:#808080;
+    text-align: right;
+    font-weight: bold;
+    border-width: 3px;
+    border: solid;
+    width: 6cm;
+}
+
+#eg{
+    border-color: #808080;
+    background-color: #E0e0e0;
+    font-weight: 400;
+    width: 3cm;
+    border-width: 1px;
+}
+table{
+    background-color: #E0e0e0;
+    border-color: #808080;
+    border : solid;
+    size-adjust: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3%;
+    border-width: 1px;
+}
+button{
+    border-width: 1px;
+    width: 1.5cm;
+}
+
+#touche{
+    border-color: #808080;
+    background-color: #E0e0e0;
+    font-weight: 400;
+    border-width: 1px;
+}
